@@ -1,0 +1,2 @@
+# Error-Weighted-Drift-Adaptive-Ensemble-Framework-for-Classification-of-Streaming-Data
+In the proposed [EW-DA-EF], the online ensemble model Adaptive Random Forest (ARF), constructed from Hoeffding Trees, along with five popular drift detection techniques (EDDM, DDM, ADWIN, HDDM_A, and HDDM_W) are integrated to construct the five base learners: ARF-EDDM, ARF-DDM, ARF-ADWIN, ARF-HDDM_A, and ARF-HDDM_W. 
